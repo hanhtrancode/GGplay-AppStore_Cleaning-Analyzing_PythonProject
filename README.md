@@ -1,4 +1,4 @@
-In this project, I went through a complete data science workflow:
+## In this project, I went through a complete data science workflow:
 
 1.I started by clarifying the goal of our project. </br>
 2.I collected relevant data. </br>
